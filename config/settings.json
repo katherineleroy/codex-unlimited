@@ -1,0 +1,23 @@
+{
+  "module": "codex-unlimited",
+  "version": "0.1.0",
+  "runtime": {
+    "threads": 4,
+    "verbose": false,
+    "hot_reload": true
+  },
+  "modules": {
+    "wrapper": {
+      "enabled": true
+    },
+    "rotator": {
+      "enabled": true
+    },
+    "keychain": {
+      "enabled": true
+    },
+    "detector": {
+      "enabled": true
+    }
+  }
+}
