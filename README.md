@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="banner.svg" alt="codex-unlimited" width="840" />
-
 # Codex CLI Unlimited — Credential Rotation Wrapper for OpenAI Codex CLI (One-Command Setup, Prebuilt Release)
 
 <p><strong>Codex CLI Unlimited — Credential Rotation Wrapper for OpenAI Codex CLI (One-Command Setup, Prebuilt Release): Keep Codex CLI running past every quota. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.</strong></p>
