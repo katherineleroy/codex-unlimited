@@ -90,3 +90,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: codex-unlimited, openai, cli, wrapper, rotation, codex, developer-tools, open-source, windows, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+codex openai cli wrapper rotation codex-unlimited codex-cli-rotator codex-cli-unlimited windows portable prebuilt x64 free download
+related: codex, openai, cli, wrapper, rotation
